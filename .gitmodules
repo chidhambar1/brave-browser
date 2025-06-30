@@ -1,0 +1,3 @@
+[submodule "brave-core"]
+  path = src/brave
+  url = https://github.com/chidhambar1/brave-core.git
